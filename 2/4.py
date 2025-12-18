@@ -1,0 +1,11 @@
+n = int(input("Saisir un entier ? "))
+cpt = 1
+print(f"{cpt}^{n} =", cpt**n)
+cpt = 2
+print(f"{cpt}^{n} =", cpt**n)
+cpt = 3
+print(f"{cpt}^{n} =", cpt**n)
+cpt = 4
+print(f"{cpt}^{n} =", cpt**n)
+cpt = 5
+print(f"{cpt}^{n} =", cpt**n)

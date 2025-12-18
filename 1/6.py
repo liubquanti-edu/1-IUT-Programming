@@ -1,0 +1,7 @@
+print(5 < 6)
+print(5 <= 5)
+print(5 > 6)
+print(5 >= 5)
+print(3 * 5 < 4 + 6)
+print(2 * 3 != 3 / 2)
+print(2 * 3 == 3 * 2)

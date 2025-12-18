@@ -1,0 +1,6 @@
+print("Table des carres de 1 a 5")
+print("1^2 = 1")
+print("2^2 = 4")
+print("3^2 = 9")
+print("4^2 = 16")
+print("5^2 = 25")
